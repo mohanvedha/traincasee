@@ -1,13 +1,5 @@
 # traincasee
- Nithya09 / traincase
-Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Pulse  Community
- Star 0
- Watch
-master
-Latest commit by Nithya09 12 months ago
- View code
- README.md
-traincase
+
 
 package train1; import java.util.*;
 
